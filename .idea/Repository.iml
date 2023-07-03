@@ -6,7 +6,20 @@
       <sourceFolder url="file://$MODULE_DIR$/module01/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/1_introduction_to_java/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/2_abc_in_java/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/10_ricorsione/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/11_lamda_stream/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/12_API_e_REST_web_service/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/13_Spring/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/14_database_e_pattern_MVC/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/15_Junit_Testing/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/3_programmazione_object_oriented/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/4_ereditarietà_e_polimorfismo/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/5_interfacce_e_astrazione/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/6_collection_e_generics/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/7_eccezioni_e_annotazioni/a_example" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/7_eccezioni_e_annotazioni/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/8_package_utili/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/9_design_pattern/src" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
